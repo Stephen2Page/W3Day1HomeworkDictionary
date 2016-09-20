@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W3Day1HomeworkDictionary\W3Day1HomeworkDictionary\bin\Debug\W3Day1HomeworkDictionary.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W3Day1HomeworkDictionary\W3Day1HomeworkDictionary\bin\Debug\W3Day1HomeworkDictionary.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W3Day1HomeworkDictionary\W3Day1HomeworkDictionary\bin\Debug\W3Day1HomeworkDictionary.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W3Day1HomeworkDictionary\W3Day1HomeworkDictionary\obj\Debug\W3Day1HomeworkDictionary.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W3Day1HomeworkDictionary\W3Day1HomeworkDictionary\obj\Debug\W3Day1HomeworkDictionary.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W3Day1HomeworkDictionary\W3Day1HomeworkDictionary\obj\Debug\W3Day1HomeworkDictionary.pdb
