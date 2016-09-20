@@ -70,8 +70,9 @@ namespace W3Day1HomeworkDictionary
 
         public static bool IsFirstLetterVowel(string word)
         {
+            // Obtained from StackOverflow
             char firstLetter = word[0];
-            bool isVowel = "aeiouAEIOU".IndexOf(firstLetter) >= 0;
+            bool isVowel = "aeiouAEIOU".IndexOf(firstLetter) >= 0; //checks if first letter of word is no in this list
             return isVowel;
            
         }
